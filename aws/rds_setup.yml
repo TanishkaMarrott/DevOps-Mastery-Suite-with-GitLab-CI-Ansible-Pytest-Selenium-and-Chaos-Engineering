@@ -1,0 +1,16 @@
+﻿---
+- name: Setup RDS instance
+  hosts: localhost
+  tasks:
+    - name: Create RDS instance
+      rds:
+        instance_name: mydb
+        db_name: mydatabase
+        region: us-east-1
+        engine: mysql
+        username: admin
+        password: securepassword
+        size: 20
+        instance_type: db.t2.micro
+        state: present
+        wait: yes

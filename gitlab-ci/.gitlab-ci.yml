@@ -1,0 +1,22 @@
+﻿stages:
+  - test
+  - deploy
+  - chaos
+
+variables:
+  ANSIBLE_HOST_KEY_CHECKING: \"False\"
+
+test:
+  stage: test
+  script:
+    - ./scripts/run_tests.sh
+
+deploy:
+  stage: deploy
+  script:
+    - ./scripts/deploy.sh
+
+chaos:
+  stage: chaos
+  script:
+    - ./scripts/chaos_test.sh
