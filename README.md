@@ -4,7 +4,7 @@
 
 ---
 
-### Project Workflow
+## Project Workflow
 
 Here's a detailed explanation of the project's workflow and the role of each component:
 
@@ -34,7 +34,7 @@ Here's a detailed explanation of the project's workflow and the role of each com
 
 ---
 
-### Workflow Summary
+## Workflow Summary
 
 1. **Code Commit:** Developers commit code changes to the GitLab repository.
 2. **Continuous Integration:**
