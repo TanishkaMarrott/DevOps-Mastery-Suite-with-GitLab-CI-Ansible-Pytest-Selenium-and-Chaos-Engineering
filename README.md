@@ -70,13 +70,7 @@ graph TD;
 
 ---
 
-### Detailed README
 
-# DevOps Mastery Suite with GitLab CI, Ansible, Pytest, Selenium, and Chaos Engineering
-
-The **DevOps Mastery Suite** integrates DevOps tools and practices for a **robust**, **efficient**, and **secure CI/CD pipeline**. It uses **GitLab CI** for integration, **Ansible** for automation, **Pytest** for unit testing, **Selenium** for end-to-end testing, and **Chaos Engineering** for resilience, all with **AWS-native services** for a complete DevOps environment.
-
----
 
 ### Tools and Technologies
 
