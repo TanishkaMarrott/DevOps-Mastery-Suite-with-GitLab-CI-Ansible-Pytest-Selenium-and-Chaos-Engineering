@@ -5,11 +5,21 @@
 In this project, I'm sharing my journey of integrating GitLab CI and Ansible for automating the deployment of a sample e-commerce web application. This suite aims to provide hands-on experience with building a comprehensive DevSecOps pipeline that ensures scalability, security, and efficiency.
 
 ## Project Goals
-- **Automate Deployment**: I'll be using GitLab CI for continuous integration and continuous deployment (CI/CD) of the application.
-- **Configuration Management**: I'll utilize Ansible for managing application configurations and environments.
-- **Security Integration**: I'll implement security best practices using tools like Checkmarx, ZAP, and Trivy.
-- **Monitoring and Logging**: I'll integrate monitoring and logging solutions using Datadog and Splunk.
-- **Automated Testing**: I'll include Selenium for UI testing and JUnit for unit testing to ensure code quality.
+- **Automate Deployment**:
+
+ I'll be using GitLab CI for continuous integration and continuous deployment (CI/CD) of the application.
+- **Configuration Management**: 
+
+I'll utilize Ansible for managing application configurations and environments.
+- **Security Integration**: 
+
+I'll implement security best practices using tools like Checkmarx, ZAP, and Trivy.
+- **Monitoring and Logging**: 
+
+I'll integrate monitoring and logging solutions using Datadog and Splunk.
+- **Automated Testing**: 
+
+I'll include Selenium for UI testing and JUnit for unit testing to ensure code quality.
 
 ## Architecture
 The project architecture consists of the following components:
