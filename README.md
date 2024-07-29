@@ -1,7 +1,8 @@
 # E-Commerce Platform DevOps Mastery Suite: My GitLab CI and Ansible Integration Journey
 
 ## Overview
-Welcome to the DevOps Mastery Suite repository! In this project, I'm sharing my journey of integrating GitLab CI and Ansible for automating the deployment of a sample e-commerce web application. This suite aims to provide hands-on experience with building a comprehensive DevSecOps pipeline that ensures scalability, security, and efficiency.
+
+In this project, I'm sharing my journey of integrating GitLab CI and Ansible for automating the deployment of a sample e-commerce web application. This suite aims to provide hands-on experience with building a comprehensive DevSecOps pipeline that ensures scalability, security, and efficiency.
 
 ## Project Goals
 - **Automate Deployment**: I'll be using GitLab CI for continuous integration and continuous deployment (CI/CD) of the application.
