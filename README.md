@@ -28,7 +28,7 @@ The project architecture consists of the following components:
 - **Docker**: For containerizing the application.
 - **Kubernetes (EKS)**: For orchestrating the deployment of Docker containers.
 - **Checkmarx, ZAP, Trivy**: For static and dynamic application security testing (SAST and DAST).
-- **Datadog, Splunk**: For monitoring and logging.
+- **Datadog**: For monitoring and logging.
 - **Selenium, JUnit**: For automated UI and unit testing.
 
 ## Directory Structure
@@ -57,7 +57,6 @@ The project architecture consists of the following components:
 │   └── service.yml
 ├── monitoring
 │   ├── datadog.yml
-│   └── splunk_dashboard.json
 ├── tests
 │   ├── selenium_tests
 │   │   └── test_ui.py
@@ -72,7 +71,7 @@ The project architecture consists of the following components:
 - Docker and Docker Compose installed
 - Ansible installed
 - Kubernetes cluster (EKS) setup
-- Datadog and Splunk setup for monitoring and logging
+- Datadog setup for monitoring and logging
 - Selenium and JUnit setup for automated testing
 
 ### Setup Instructions
