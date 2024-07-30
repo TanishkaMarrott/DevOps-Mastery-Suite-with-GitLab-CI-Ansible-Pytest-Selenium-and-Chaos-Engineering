@@ -1,4 +1,5 @@
-# E-Commerce Platform DevOps Mastery Suite: My GitLab CI and Ansible Integration Journey
+# E-Commerce Platform DevOps Mastery Suite: My GitLab CI and Ansible Integration Journey 
+### (In progress)
 
 ## Overview
 
