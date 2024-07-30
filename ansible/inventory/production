@@ -1,5 +1,0 @@
-﻿[webservers]
-webserver_host ansible_host=192.168.1.10
-
-[dbservers]
-dbserver_host ansible_host=192.168.1.20
