@@ -1,4 +1,4 @@
-# E-Commerce Platform DevOps Mastery Suite: My GitLab CI and Ansible Integration Journey 
+# Building an Amazon Clone with GitLab CI and Ansible Integration Setup
 ### (In progress)
 
 ## Overview
